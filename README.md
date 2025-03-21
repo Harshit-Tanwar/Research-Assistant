@@ -1,5 +1,7 @@
 🚀 Research Assistant Chrome Extension
-A Chrome Extension powered by Google AI API, built with Spring Boot for the backend and JavaScript for the frontend. This tool helps users gather, summarize, and analyze research material efficiently.
+
+A Chrome Extension powered by Google AI API, built with Spring Boot for the backend and JavaScript for the frontend. 
+This tool helps users gather, summarize, and analyze research material efficiently.
 
 🔥 Features
 AI-Powered Research Summaries – Extract key insights from articles.
